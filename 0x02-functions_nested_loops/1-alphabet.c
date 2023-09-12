@@ -1,18 +1,19 @@
 #include "main.h"
 
 /**
- * print_alphabet - check the code
+ * main - check the code
  *
  * Return: Always 0.
  */
+
 void print_alphabet(void)
 {
+        char c = 'a';
 
-	char letter;
-
-	for (letter = 'a'; letter <= 'z'; letter++)
-	{
-		_putchar(letter);
-	}
-	_putchar('\n');
+        while(c <= 'z')
+        {
+                _putchar(c);
+                c++;
+        }
+        _putchar('\n');
 }
