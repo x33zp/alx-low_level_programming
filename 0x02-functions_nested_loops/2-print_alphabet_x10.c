@@ -6,19 +6,17 @@
 * Return: Always 0 (Success)
 */
 
-void print_alphabet_x10(void) 
+void print_alphabet_x10(void)
 {
-	int i = 0, p;
+	int i = 0;
+	char c;
 
-	while (i < 10)
+	for (i = 0; i < 10; i++)
 	{
-		p = 'a';
-		while (p <= 'z')
-			{
-				_putchar(p);
-				p++;
-			}
+		for (c = 'a'; c <= 'z'; c++)
+		{
+			_putchar(c);
+		}
 	_putchar('\n');
-	i++;
 	}
 }
