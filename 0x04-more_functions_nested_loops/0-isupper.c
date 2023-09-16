@@ -3,7 +3,7 @@
 /**
  * _isupper - checks for uppercase character
  *
- * @c - character argumnent
+ * @c: character argumnent
  *
  * Return: 1 or 0 given the case
  */
