@@ -2,7 +2,7 @@
 
 /**
  * _strlen - length of a string
- * 
+ *
  * @s: character argument
  *
  * Return: Always 0
@@ -18,5 +18,5 @@ int _strlen(char *s)
 		s++;
 	}
 
-	return len;
+	return (len);
 }
