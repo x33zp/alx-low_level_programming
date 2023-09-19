@@ -4,7 +4,7 @@
  * _puts - function that prints a string
  *
  * @str: character
- * 
+ *
  * Return: Always o
  */
 
