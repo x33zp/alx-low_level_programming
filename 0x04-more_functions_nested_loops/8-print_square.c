@@ -3,6 +3,8 @@
 /**
  * print_square - function that prints a square
  *
+ * @size: argument
+ *
  * Return: Always 0
  */
 
