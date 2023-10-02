@@ -8,6 +8,8 @@
  *       used in the 0x08-recursion directory.
  */
 
+int prime_number(int divider, int n);
+int is_prime(int a, int b);
 int find_sq(int a, int b);
 int _putchar(char c);
 void _puts_recursion(char *s);
