@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * _sqrt_recursion - a function that returns the natural square root of a number.
- * 
- * @n - argument
+ * _sqrt_recursion - a function that returns the
+ *  natural square root of a number.
+ *
+ * @n: argument
  *
  * Return: -1, 1, recursive function
  */
