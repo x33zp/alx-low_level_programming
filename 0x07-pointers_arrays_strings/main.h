@@ -3,7 +3,7 @@
 
 /*
  * File - main.h
- * Author - Daniel John
+ * Author - Zubby Peculiar
  * Description : Header contains prototype for all functions
  *		used in 0x02-functions_nested_loops directory
  */
