@@ -3,7 +3,7 @@
 
 /**
  * File - function_pointers.h
- * Author - Daniel John
+ * Author - zubby peculiar
  * Decription: Header contains prototype for all function
  * used in 0x0F.C-FUNCTION pointers
  */
