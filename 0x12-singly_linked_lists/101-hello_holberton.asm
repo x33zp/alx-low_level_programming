@@ -1,5 +1,5 @@
 ; File: 101-hello_holberton.asm
-; Author: Daniel John
+; Author: zubby peculiar
 ; Desc: 64-bit assembly program that prints
 ;       Hello, Holberton followed by a new line.
 

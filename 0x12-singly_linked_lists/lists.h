@@ -2,7 +2,7 @@
 #define _LISTS_H_
 
 /**
- * Author - zubby peculiar
+ * Author - zubb peculiar
  * File - list.h
  * Description: A header file for function prototypes in project
  *		0x12. C - Singly linked lists
